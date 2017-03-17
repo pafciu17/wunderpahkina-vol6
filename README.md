@@ -40,7 +40,7 @@ Thip and Tale are the richest squirrels in the world. To protect their nut fortu
 
 The board of city planning will check the aesthetics of the new tank from the diagram which is a two-dimensional presentation of the city skyline. Your mission is to find the biggest possible cube from this diagram, which is hidden behind all tower blocks. The width is the same for all tower blocks (1 unit).  [Attached](https://raw.githubusercontent.com/wunderdogsw/wunderpahkina-vol6/master/input.txt) are their heights in units, from left to right.
 
-The answer should contain the size of the cube in units. 
+The answer should contain the size of the square in units. 
 
 ![pahkina_4x4_2](https://cloud.githubusercontent.com/assets/559316/24046867/b174b752-0b2c-11e7-9871-953d1532e8df.png)
 ![pahkina_4x4](https://cloud.githubusercontent.com/assets/559316/24046868/b18ffba2-0b2c-11e7-844f-f7160bb1be78.png)
