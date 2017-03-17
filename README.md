@@ -27,7 +27,7 @@ _Esimerkkejä suurimmista säiliöistä._
 
 Lähetä vastauksesi viimeistään keskiviikkona 5.4.2017 osoitteeseen pahkina@wunderdog.fi. Raati kokoontuu perjantaina 7.4.2017 ja julkaisee voittajan sen jälkeen.
 
-Voittaja palkitaan Sphero SPRK + ohjelmoitavalla älypallolla.
+Voittaja palkitaan Sphero SPRK+ ohjelmoitavalla älypallolla.
 
 ![sphero](https://cloud.githubusercontent.com/assets/559316/24048087/7d3f7360-0b30-11e7-936b-d3b6515c811c.png)
 
@@ -59,6 +59,6 @@ _Examples of the biggest square._
 
 Send your solution to pahkina@wunderdog.fi by the end of 5.4.2017. Jury will select the winner on 7.4.2017 and the results will be announced after that.
 
-Winner will be rewarded with a Sphero SPRK +.
+Winner will be rewarded with a Sphero SPRK+.
 
 ![sphero](https://cloud.githubusercontent.com/assets/559316/24048087/7d3f7360-0b30-11e7-936b-d3b6515c811c.png)
