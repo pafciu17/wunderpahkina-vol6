@@ -1,4 +1,4 @@
-const assert = require('assert');
+const assert = require('assert')
 const { calculateSquareAreaStartingAtIndex0 } = require('./utils')
 
 describe('Utils', () => {
