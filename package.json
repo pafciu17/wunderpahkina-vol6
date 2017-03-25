@@ -1,0 +1,23 @@
+{
+  "name": "wunderpahkina-vol6",
+  "version": "1.0.0",
+  "description": "(Scroll [down](#the-biggest-square) for English instructions.)",
+  "main": "main.js",
+  "dependencies": {
+    "ramda": "^0.23.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pafciu17/wunderpahkina-vol6.git"
+  },
+  "author": "Pawel Niechoda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pafciu17/wunderpahkina-vol6/issues"
+  },
+  "homepage": "https://github.com/pafciu17/wunderpahkina-vol6#readme"
+}
