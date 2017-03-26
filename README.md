@@ -1,4 +1,6 @@
-# Wunderpahkina vol. 6
+# Wunderpahkina vol. 6 (Solution)
+
+Solution to described bellow problem.
 
 (Scroll [down](#the-biggest-square) for English instructions.)
 
