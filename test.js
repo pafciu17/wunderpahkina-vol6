@@ -9,6 +9,7 @@ describe('Utils', () => {
       assert.equal(calculateSquareAreaStartingAtIndex0([5, 5, 5, 3, 100]), 9)
       assert.equal(calculateSquareAreaStartingAtIndex0([5, 2, 4, 5, 100, 200]), 4)
       assert.equal(calculateSquareAreaStartingAtIndex0([5, 0, 10, 10]), 1)
+      assert.equal(calculateSquareAreaStartingAtIndex0([10, 5, 7, 7, 7, 10, 3, 10]), 25)
     });
   });
 });
