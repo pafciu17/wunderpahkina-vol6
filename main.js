@@ -21,6 +21,6 @@ fs.readFile('input.txt', (err, data) => {
   } else {
     const input = R.map(parseInt, data.toString().split("\n"))
     const result = solve(input)
-    console.log(`Maximal size: ${result}`)
+    console.log(`Maximal size: ${result} unit^2`)
   }
 })
