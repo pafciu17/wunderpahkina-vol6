@@ -10,7 +10,8 @@
     "mocha": "^3.2.0"
   },
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha"
+    "test": "./node_modules/mocha/bin/mocha",
+    "start": "node main.js"
   },
   "repository": {
     "type": "git",
