@@ -1,7 +1,9 @@
 const R = require('ramda')
 
 const getBiggestDimension = (index, currentMin, currentValue) => {
-  if (currentMin > currentValue) {
+  if (index >= currentMin) {
+    return currentMin
+  } else if (currentMin > currentValue) {
     return R.max(currentValue, index)
   } else {
     return R.min(currentMin, currentValue)
